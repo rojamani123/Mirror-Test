@@ -1,1 +1,7 @@
-myapp: name : rojamani
+myapp:
+     name : rojamani
+     age : 30
+
+myapp1:
+    name : deepika
+    age : 30    
