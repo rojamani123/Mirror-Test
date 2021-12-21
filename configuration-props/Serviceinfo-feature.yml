@@ -1,0 +1,3 @@
+spring:
+  app:
+     threadname: Service-Info.yml
